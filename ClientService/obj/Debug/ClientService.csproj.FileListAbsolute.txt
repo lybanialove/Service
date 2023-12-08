@@ -1,0 +1,26 @@
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.AssemblyReference.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.Autorization.resources
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.RecordingMenu.resources
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.Registration.resources
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.StartForm.resources
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.GenerateResource.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\bin\Debug\ClientService.exe.config
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\bin\Debug\ClientService.exe
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\bin\Debug\ClientService.pdb
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.exe
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.pdb
+C:\Users\Валан\Desktop\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.Resources.resources
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.AssemblyReference.cache
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\View.Autorization.resources
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.GenerateResource.cache
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.exe
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\ClientService.pdb
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\bin\Debug\ClientService.exe.config
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\bin\Debug\ClientService.exe
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\bin\Debug\ClientService.pdb
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\View.RecordingMenu.resources
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\View.Registration.resources
+C:\Users\79096\OneDrive\Рабочий стол\Новая папка (2)\Service\ClientService\obj\Debug\View.StartForm.resources

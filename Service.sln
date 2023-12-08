@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{BEE72F56-31DE-49C7-ADDA-CF8DE172C6D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{A37CCC7B-DD93-4F42-B753-AAB265140883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientService", "ClientService\ClientService.csproj", "{236288A9-8C93-44EB-AEA2-4A59B12CC249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE72F56-31DE-49C7-ADDA-CF8DE172C6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE72F56-31DE-49C7-ADDA-CF8DE172C6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE72F56-31DE-49C7-ADDA-CF8DE172C6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE72F56-31DE-49C7-ADDA-CF8DE172C6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37CCC7B-DD93-4F42-B753-AAB265140883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37CCC7B-DD93-4F42-B753-AAB265140883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37CCC7B-DD93-4F42-B753-AAB265140883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37CCC7B-DD93-4F42-B753-AAB265140883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236288A9-8C93-44EB-AEA2-4A59B12CC249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236288A9-8C93-44EB-AEA2-4A59B12CC249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236288A9-8C93-44EB-AEA2-4A59B12CC249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236288A9-8C93-44EB-AEA2-4A59B12CC249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {552ECC05-100E-46C2-AFBB-43291E6D9021}
+	EndGlobalSection
+EndGlobal
